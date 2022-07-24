@@ -194,7 +194,7 @@
     "expiry-js": "0.1.7",
     "extract-zip": "^2.0.1",
     "fast-deep-equal": "^3.1.1",
-    "file-type": "^10.9.0",
+    "file-type": "^16.5.4",
     "focus-trap-react": "^3.1.1",
     "font-awesome": "4.7.0",
     "fp-ts": "^2.3.1",
