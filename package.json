@@ -235,7 +235,7 @@
     "load-json-file": "^6.2.0",
     "lodash": "^4.17.20",
     "lru-cache": "^4.1.5",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^13.0.2",
     "md5": "^2.1.0",
     "mime": "^2.4.4",
     "mime-types": "^2.1.27",
